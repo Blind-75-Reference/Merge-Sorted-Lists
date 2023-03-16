@@ -1,18 +1,7 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
-
 class Solution {
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+    public IntegerList mergeTwoLists(IntegerList list1, IntegerList list2) {
         //Write your code here...
 
-        return new ListNode();
+        return new IntegerList();
     }
 }
